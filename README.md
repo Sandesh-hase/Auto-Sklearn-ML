@@ -8,4 +8,3 @@ Examples:- https://automl.github.io/auto-sklearn/master/examples/index.html
 
 ![image](https://user-images.githubusercontent.com/98344033/197041037-9b4e1413-33e1-4442-928c-dd44e8929646.png)
 
-auto-sklearn in four lines of code
